@@ -2,16 +2,12 @@
 
 Client App for the Apollofy project.
 
-## Repo
-
-- [apollofy-music-project](https://github.com/assembler-school/apollofy-music-project.git)
 
 ## Getting Started
 
 ### Install Dependencies
 
-This is a monorepo app made with Yarn. Therefore, you will need to run `yarn` in
-the root and then the individual scripts of each package.
+This is a app made with Yarn. Therefore, you will need to run `yarn install`.
 
 The `web` package will be run by default in the following url:
 `http://localhost:3000`.
@@ -33,7 +29,7 @@ variables.
 These are the required environment variables for the config of the app. The ones
 that start with `FB_` are needed for the Firebase Admin config.
 
-These are all used in the `packages/web/src/services/auth/auth.js` file:
+These are all used in the `src/services/auth/auth.js` file:
 
 ```js
 const firebaseConfig = {
