@@ -30,15 +30,7 @@ There were two options: either call it Apollofy or Assemblerfy. And it seemed mu
 ### Project management
 The success of a software project does not only depend on good code quality. The alignment of the squad and the correct distribution of tasks and delivery dates is essential for complete success. For this reason, it is important that the project is correctly separated into small tasks that can be distributed among the different members of the squad, and that these are gradually completed throughout the weeks of the project.
 
-### Install Dependencies
 
-This is a app made with Yarn. Therefore, you will need to run `yarn install`.
-
-The `web` package will be run by default in the following url:
-`http://localhost:3000`.
-
-Coger cositas de la docuemtnació
-n
 
 ## License
 
