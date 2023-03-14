@@ -284,7 +284,7 @@
     }
   ],
   "albums": [
-    [
+    
       {
         "id": 1,
         "name": "Flyga",
@@ -405,10 +405,10 @@
         "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a009515d20b39aa065540314",
         "artist": "Arre"
       }
-    ]
+    
   ],
   "artists": [
-    [
+    
       {
         "id": 1,
         "name": "Kim Cesarion",
@@ -608,7 +608,7 @@
         "popularity": 42,
         "photoUrl": "https://i.scdn.co/image/ab6761610000e5eb31b2c3d4c8866b38310591be"
       }
-    ]
+    
   ],
   "genres": [
     {
